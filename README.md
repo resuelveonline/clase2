@@ -1,4 +1,4 @@
-# clase2
+
 ## Ejercicios clase 2
 Este es el repositorio de la segunda clase con Josh
 
